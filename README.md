@@ -17,7 +17,7 @@ On **Web Crafters**, I share daily content focused on creating responsive UIs us
 If you find my content helpful, please consider supporting the channel by subscribing and sharing the videos. Your support helps me continue creating valuable content for the community.
 
 - **YouTube**: [@Web.Crafters](https://www.youtube.com/@Web.Crafters)
-- **Instagram**: [web.crafters2024](instagram.com/web.crafters2024)
+- **Instagram**: [web.crafters2024](https://www.instagram.com/web.crafters2024)
 - **Facebook**: [Web-Crafters/61564137717276](https://www.facebook.com/people/Web-Crafters/61564137717276/)
 
 Join our community, and let's code beautiful UIs together!
